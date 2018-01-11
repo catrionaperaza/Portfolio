@@ -27,12 +27,12 @@
 
 // Palette.
 	$palette: (
-		bg:					#fff,
+		bg:					#00008B,
 		fg:					#6f7577,
 		fg-bold:			#61686b,
 		fg-light:			#a8b0b3,
 		fg-lighter:			#e8f0f3,
-		border:				#dddddd,
+		border:				#00008B,
 		border-bg:			rgba(144,144,144,0.075),
 		border2:			#d3d3d3,
 		border2-bg:			rgba(144,144,144,0.15),
@@ -49,11 +49,11 @@
 		),
 
 		accent1: (
-			bg:				#8cd1a8,
-			fg-bold:		#ffffff,
-			fg:				mix(#8cd1a8, #ffffff, 25%),
-			fg-light:		mix(#8cd1a8, #ffffff, 40%),
-			fg-lighter:		mix(#8cd1a8, #ffffff, 90%),
+			bg:					#00008B,
+			fg-bold:		#00008B,
+			fg:				mix(#00008B, #6495ED, 25%),
+			fg-light:		mix(#00008B, #6495ED, 40%),
+			fg-lighter:		mix(#00008B, #6495ED, 90%),
 			border:			rgba(255,255,255,0.25),
 			border-bg:		rgba(255,255,255,0.075),
 			border2:		rgba(255,255,255,0.5),
