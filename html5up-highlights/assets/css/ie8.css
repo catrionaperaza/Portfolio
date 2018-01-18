@@ -58,7 +58,7 @@
 	input[type="button"],
 	button,
 	.button {
-		border: solid 2px #dddddd;
+		border: solid 2px blue;
 	}
 
 /* Main BG */
